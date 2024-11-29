@@ -12,7 +12,7 @@
 
 2、选中需要修改的操作，并且选中需要修改的账号，点击执行选中
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、等待指纹浏览器自动运行更改
 
