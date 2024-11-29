@@ -34,4 +34,3 @@
   * [网络问题](nei-rong/qa-da-yi/wang-luo-wen-ti.md)
   * [脚本提示连接异常](nei-rong/qa-da-yi/jiao-ben-ti-shi-lian-jie-yi-chang.md)
   * [数据迁移](nei-rong/qa-da-yi/shu-ju-qian-yi.md)
-  * [大纲](nei-rong/qa-da-yi/da-gang.md)
