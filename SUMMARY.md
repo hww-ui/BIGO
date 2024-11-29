@@ -34,3 +34,4 @@
   * [网络问题](nei-rong/qa-da-yi/wang-luo-wen-ti.md)
   * [脚本提示连接异常](nei-rong/qa-da-yi/jiao-ben-ti-shi-lian-jie-yi-chang.md)
   * [数据迁移](nei-rong/qa-da-yi/shu-ju-qian-yi.md)
+  * [DePING项目须知](nei-rong/qa-da-yi/deping-xiang-mu-xu-zhi.md)
