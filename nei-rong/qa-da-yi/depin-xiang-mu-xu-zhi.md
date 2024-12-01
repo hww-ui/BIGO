@@ -1,15 +1,15 @@
-# DePING项目须知
+# Depin项目须知
 
 
 
-|            [Grass](deping-xiang-mu-xu-zhi.md#grass)            |
-| :------------------------------------------------------------: |
-|   [DAWN](deping-xiang-mu-xu-zhi.md#dawn-deng-bu-shang-qu-le)   |
-| [Gradient Network](deping-xiang-mu-xu-zhi.md#gradient-network) |
-|          [Nodepay](deping-xiang-mu-xu-zhi.md#nodepay)          |
-|             [GAEA](deping-xiang-mu-xu-zhi.md#gaea)             |
-|        [BlockMesh](deping-xiang-mu-xu-zhi.md#blockmesh)        |
-|     [Pipe Network](deping-xiang-mu-xu-zhi.md#pipe-network)     |
+|            [Grass](depin-xiang-mu-xu-zhi.md#grass)            |
+| :-----------------------------------------------------------: |
+|   [DAWN](depin-xiang-mu-xu-zhi.md#dawn-deng-bu-shang-qu-le)   |
+| [Gradient Network](depin-xiang-mu-xu-zhi.md#gradient-network) |
+|          [Nodepay](depin-xiang-mu-xu-zhi.md#nodepay)          |
+|             [GAEA](depin-xiang-mu-xu-zhi.md#gaea)             |
+|        [BlockMesh](depin-xiang-mu-xu-zhi.md#blockmesh)        |
+|     [Pipe Network](depin-xiang-mu-xu-zhi.md#pipe-network)     |
 
 ### Grass
 
@@ -94,7 +94,7 @@
     代理IP         邮箱
 
 {% hint style="success" %}
-**密码**：平台会检验是否是特殊 字符，如果不是 则会报错
+**密码**：平台会检验是否是特殊字符，如果不是 则会报错
 {% endhint %}
 
 *   功能说明
@@ -116,7 +116,7 @@
 
 ## 总结：
 
-1、Grass 、Nodepay 、GAEA、Pipe Network 保持在线请勿关闭 表示 走完流程了
+1、Grass 、Nodepay 、GAEA、Pipe Network、Gradient Network、GAEA 、BlockMesh保持在线请勿关闭 表示 走完流程了
 
 2、邮箱都需要是活的
 
