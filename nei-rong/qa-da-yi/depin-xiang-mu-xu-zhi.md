@@ -63,7 +63,7 @@
 *   功能说明
 
     【01】自动挂机（手动注册）
-* 一个邮箱可以绑定2个以上ip （最多没有尝试）
+* 一个邮箱可以绑定3个ip ，超出则不增加积分。
 
 ### Nodepay
 
@@ -116,9 +116,11 @@
 
 ## 总结：
 
-1、Grass 、Nodepay 、GAEA、Pipe Network、Gradient Network、GAEA 、BlockMesh保持在线请勿关闭 表示 走完流程了
+1、Grass 、Nodepay 、GAEA、Pipe Network、Gradient Network、GAEA 、BlockMesh保持在线请勿关闭 表示 走完流程了。
 
-2、邮箱都需要是活的
+2、邮箱都需要是活的。
+
+3、建议邮箱最好自己注册，购买的邮箱容易封。
 
 ## 配置步骤
 
