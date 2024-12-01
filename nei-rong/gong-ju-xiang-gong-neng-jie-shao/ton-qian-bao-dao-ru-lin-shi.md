@@ -10,7 +10,7 @@
 
 选择已添加钱包的账户组
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 每100个为一个组，点击按钮后会启动一个浏览器把这100个钱包都导入进去
 
@@ -18,7 +18,7 @@
 
 最后到了这个界面，自己选择网络和币种、交易方式
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
