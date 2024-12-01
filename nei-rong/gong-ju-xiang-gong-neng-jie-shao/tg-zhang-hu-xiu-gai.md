@@ -19,7 +19,7 @@
 <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-修改成功后，去其他地方看发现**没有**修改，可能是你导入了两个一样的账户，你只是修改了其中一个
+修改成功后，去账户配置里面看发现**没有**修改，可能是你导入了两个一样的账户，你只是修改了其中一个
 
 查看方法：
 
