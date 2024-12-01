@@ -4,11 +4,11 @@
 
 #### TG启动器出现下面这个界面，表示这个账号被ban了，无法使用了了
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2 、空白页 ：[网络问题 ](wang-luo-wen-ti.md#id-2tg-qi-dong-qi-wu-fa-fang-wen)
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、浏览器转圈圈： 可能是auth失效，也可能是[网络问题](wang-luo-wen-ti.md)
 
