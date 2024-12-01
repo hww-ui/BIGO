@@ -144,7 +144,7 @@
 如果没有邮箱可以点击【购买邮箱】购买平台的邮箱，但是这个只是**任务邮箱**做任务的，不保活
 {% endhint %}
 
-5、创建账户组：点击【新增账户组】—右击【邮箱】 —点击【添加账户】— 选中自己需要的邮箱账号 — 右击【确定】— 右击【浏览器指纹】选择【电脑指纹】（钱包和ip根据自己的需求配置）— 填写名字 — 点击保存 （详见[配置账户组](../zhun-bei-gong-zuo/pei-zhi-zhang-hu-zu.md)）![](<../../.gitbook/assets/image (5).png>)
+5、创建账户组：点击【新增账户组】—右击【邮箱】 —点击【添加账户】— 选中自己需要的邮箱账号 — 右击【确定】— 右击【浏览器指纹】选择【电脑指纹】（钱包和ip根据自己的需求配置）— 填写名字 — 点击保存 （详见[配置账户组](../zhun-bei-gong-zuo/pei-zhi-zhang-hu-zu.md)）
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -152,23 +152,51 @@
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-di7、
+7、到【执行列表】里面查看，并且运行刚刚创建的， 出现保存在线，请勿关闭
+
+<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 ### 手动注册 （已Gradient Network为列）
 
+1、首先要去查看需要运行的项目需要哪些配置，下图需要代理IP 邮箱 解码点（**不是任务点**），并且这是自动注册，自动挂机的。
 
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
+2、仔细查看说明和填写格式，导入代理IP
 
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
+3、点击检测选中可以查看IP是否有效
 
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
+4、仔细查看说明和填写格式，导入邮箱账户
 
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+如果没有邮箱可以点击【购买邮箱】购买平台的邮箱，但是这个只是**任务邮箱**做任务的，不保活
+{% endhint %}
 
+5、创建账户组：点击【新增账户组】—右击【邮箱】 —点击【添加账户】— 选中自己需要的邮箱账号 — 右击【确定】— 右击【浏览器指纹】选择【电脑指纹】（钱包和ip根据自己的需求配置）— 填写名字 — 点击保存 （详见[配置账户组](../zhun-bei-gong-zuo/pei-zhi-zhang-hu-zu.md)）
 
+<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
+6、回到【项目清单】找到需要运行的Gradient Network项目点击进行配置 （详见[项目清单](../lu-mao/xiang-mu-qing-dan.md)，[邀请码填写](../kai-shi-jiao-ben/yao-qing-ma-tian-xie.md)）
 
+<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
+7、点击保存后，不立即执行
+
+<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
+8、点击网址进行注册
+
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+9、注册完后，启动， 出现保存在线，请勿关闭，就是没有问题的
 
 
 
