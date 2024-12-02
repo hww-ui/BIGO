@@ -33,6 +33,6 @@
   * [钱包打不开](nei-rong/qa-da-yi/qian-bao-da-bu-kai.md)
   * [网络问题](nei-rong/qa-da-yi/wang-luo-wen-ti.md)
   * [脚本提示连接异常](nei-rong/qa-da-yi/jiao-ben-ti-shi-lian-jie-yi-chang.md)
-  * [数据迁移](nei-rong/qa-da-yi/shu-ju-qian-yi.md)
+  * [数据迁移 (备份)](nei-rong/qa-da-yi/shu-ju-qian-yi-bei-fen.md)
   * [Depin项目须知](nei-rong/qa-da-yi/depin-xiang-mu-xu-zhi.md)
   * [测试网项目须知](nei-rong/qa-da-yi/ce-shi-wang-xiang-mu-xu-zhi.md)
