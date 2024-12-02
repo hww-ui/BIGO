@@ -14,7 +14,7 @@
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-> <mark style="background-color:orange;">解决方法</mark>：
+> <mark style="background-color:orange;">auth失效解决方法</mark>：
 >
 > 如果你没有备份，没有剔除url，url是有效的,那么你可以url登录,打开TG启动器可以自动登录&#x20;
 >
@@ -23,6 +23,24 @@
 > 如果你备份了，没有剔除url ，那么你可以先清除一下缓存，然后就可以登录运行了
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
+> <mark style="background-color:orange;">网络问题</mark>：
+>
+> **检查接码链接**可不可以通过，url是否是有效的。
+>
+> **检查梯子**：是否全局，是否开启tun模式，是否开启服务模式
+>
+> **检查防火墙**：本地防火墙是否都关闭了，专用网络和共用网络，部分电脑是域网络，公用网络和xx网络
+>
+> **查看检测IP**：1、Bigo只支持http的代理ip，如果不是这个ip请更换。
+>
+> 2、在代理ip导入页检测试试，如果检测不通，请更换。
+>
+> 3、再使用外面的检测工具试试，如果不通，请更换。
+>
+> 4、再使用外面的检测工具试试，如果不通，请更换
+>
+> 如果以上都没有问题但是还是无法打开，那就把好的可以运行的IP换到不可以的运行的那个账号，发现可以运行，应该是那个IP暂时无法使用了
 
 ### 4、code不输入，浏览器直接退出
 
