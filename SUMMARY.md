@@ -36,3 +36,4 @@
   * [数据迁移 (备份)](nei-rong/qa-da-yi/shu-ju-qian-yi-bei-fen.md)
   * [Depin项目须知](nei-rong/qa-da-yi/depin-xiang-mu-xu-zhi.md)
   * [测试网项目须知](nei-rong/qa-da-yi/ce-shi-wang-xiang-mu-xu-zhi.md)
+  * [加载AUTH和加载授权的区别](nei-rong/qa-da-yi/jia-zai-auth-he-jia-zai-shou-quan-de-qu-bie.md)
