@@ -6,7 +6,7 @@
 
 主要是用来批量操作钱包的工具（后期会更换为纯协议版本）
 
-### 2、使用方式
+## 2、使用方式
 
 选择已添加钱包的账户组
 
@@ -22,21 +22,21 @@
 
 
 
-### 3、举例
+## 3、举例
 
 下面以番茄 apt钱包 为列
 
-点击【导入钱包1-100】
+### 1、点击【导入钱包1-100】
 
 <figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
-等待OKX Wallet 自动执行到出现下图钱包100
+### 2、等待OKX Wallet 自动执行到出现下图
 
-<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-或者去插件里面，查看钱包的数量
+### 或者去插件里面，查看钱包的数量为100时
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 如：\
@@ -45,9 +45,9 @@
 **中途断开**： 重新运行可以继续导入没有导入的钱包
 {% endhint %}
 
+3、去插件里面查看钱包有番茄币的，点击
 
-
-
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 
 
