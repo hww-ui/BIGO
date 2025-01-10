@@ -4,7 +4,7 @@
 
 ### 1、固定邀请码
 
-tg类的项目是生成的邀请链接，所以需要填写的邀请码是邀请连接''**startapp=**''后面的
+tg类的项目是生成的邀请链接，所以需要填写的邀请码是邀请连接<mark style="background-color:green;">''</mark><mark style="background-color:green;">**startapp=**</mark><mark style="background-color:green;">''后面的</mark>
 
 例：[https://t.me/catizenbot/gameapp?startapp=rp\_35564199](https://t.me/catizenbot/gameapp?startapp=rp_35564199)
 
