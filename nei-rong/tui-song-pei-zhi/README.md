@@ -8,25 +8,25 @@
 
 创建好群聊后，使用手机或者pc客户端都行，找到群设置
 
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 选择机器人-添加机器人-自定义机器人
 
-<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 进入设置界面，机器人名字可以随便自己取，安全设置一定要选择“加签”
 
 然后把“加签”里面那个复制出来保存好，点击完成
 
-<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 然后在把webhook这个链接复制下来，保存好，就算完成了机器人的配置，接下来就是绑定平台了
 
-<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 回到bigo，进入推送设置页面后，点击增加新的密钥
 
@@ -38,8 +38,8 @@ secret填写的是刚才的“加签”
 
 填写完毕后，点击新增
 
-<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 新增完毕之后，选中生成出来的密钥，选择下方的推送内容（自行选择），选中之后，确认保存即可
 
-<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
