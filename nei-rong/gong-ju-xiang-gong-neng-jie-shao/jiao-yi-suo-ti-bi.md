@@ -4,7 +4,7 @@
 
 【账号】—【API管理】—【创建API】
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 系统生成选择【下一步】
 

@@ -12,11 +12,11 @@
 
 2、选中需要修改的操作，并且选中需要修改的账号，点击执行选中
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、等待指纹浏览器自动运行更改
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 修改成功后，去账户配置里面看发现**没有**修改，可能是你导入了两个一样的账户，你只是修改了其中一个

@@ -4,11 +4,11 @@
 
 #### TG启动器出现下面这个界面，表示这个账号被ban了，无法使用了了
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2 、空白页 ：[网络问题 ](wang-luo-wen-ti.md#id-2tg-qi-dong-qi-wu-fa-fang-wen)
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、浏览器转圈圈： 可能是auth失效，也可能是[网络问题](wang-luo-wen-ti.md)
 
@@ -58,14 +58,14 @@
 
 2. 如果是bigo平台购买的，查看接码链接，复制到浏览器搜索框
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 查看出现的界面
 
 * 出现下面这个界面，是无效的，接收不到验证码url ，所以code不输入，浏览器才会闪退
   *
 
-      <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -77,7 +77,7 @@
 * 出现下面这个界面，是url有效的，验证码可以直接填入
   *
 
-      <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5、拒绝请求：TG启动器不支持启动
 
