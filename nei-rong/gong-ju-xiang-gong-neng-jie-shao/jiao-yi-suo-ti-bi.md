@@ -4,7 +4,7 @@
 
 【账号】—【API管理】—【创建API】
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 系统生成选择【下一步】
 
@@ -34,7 +34,7 @@
 3.20版本之后改成下图样式
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -14,7 +14,7 @@ tg类的项目是生成的邀请链接，所以需要填写的邀请码是邀请
 
 ### 2、从报表中随机获取邀请码
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 图中填写5，表示从报表中找到未邀请满5人
 

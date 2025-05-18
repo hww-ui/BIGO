@@ -1,4 +1,4 @@
-# 数据迁移
+# 数据迁移 (备份)
 
 1、复制老设备`userdata` 这个文件夹 到 新设备上bigo文件夹里面`userdata` ，复制替换(备份登录状态)
 
@@ -8,4 +8,4 @@
 
 <figure><img src="../../.gitbook/assets/ab3dae1e593cc68b8923c4eacb6be987.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
