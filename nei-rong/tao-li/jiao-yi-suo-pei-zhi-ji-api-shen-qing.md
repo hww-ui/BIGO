@@ -14,5 +14,5 @@
 
 
 
-bybit：[https://www.bybitglobal.com/invite?ref=BRKYYBM](https://www.bybitglobal.com/invite?ref=BRKYYBM)
+bybit：[https://partner.bybit.com/b/BIGO](https://partner.bybit.com/b/BIGO)(次月返佣40%)
 
