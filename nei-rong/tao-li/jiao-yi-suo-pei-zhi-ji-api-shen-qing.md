@@ -6,7 +6,7 @@
 
 
 
-币安：[https://www.marketwebb.me/referral/mystery-box/2025-pizza-day/claim?ref=GRO\_16987\_BJNO9\&utm\_medium=web\_share\_copy](https://www.marketwebb.me/referral/mystery-box/2025-pizza-day/claim?ref=GRO_16987_BJNO9\&utm_medium=web_share_copy)
+币安：[https://www.marketwebb.net/join?ref=BIGO88](https://www.marketwebb.net/join?ref=BIGO88)(次月返佣30%)
 
 
 
