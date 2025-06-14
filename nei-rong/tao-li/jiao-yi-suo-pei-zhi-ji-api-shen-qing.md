@@ -16,3 +16,9 @@
 
 bybit：[https://partner.bybit.com/b/BIGO](https://partner.bybit.com/b/BIGO)(次月返佣40%)
 
+
+
+gate：[https://www.gate.com/share/a1rnbgsn](https://www.gate.com/share/a1rnbgsn%EF%BC%88%E9%82%80%E8%AF%B7%E7%A0%81%E5%A1%AB%E5%86%99%EF%BC%9ABIGOBIGO%EF%BC%89)（邀请码填写：BIGOBIGO）（次月返佣45%）
+
+
+
