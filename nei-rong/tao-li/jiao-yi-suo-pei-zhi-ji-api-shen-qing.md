@@ -22,3 +22,7 @@ gate：[https://www.gate.com/share/a1rnbgsn](https://www.gate.com/share/a1rnbgsn
 
 
 
+bitget：[https://partner.niftah.cn/bg/bigo8888](https://partner.niftah.cn/bg/bigo8888)（次月返佣50%）
+
+
+
