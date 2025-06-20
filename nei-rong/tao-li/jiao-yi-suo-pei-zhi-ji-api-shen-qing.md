@@ -10,7 +10,7 @@
 
 
 
-欧易：[https://ouxyi.link/ul/YbU25D?channelId=5022617](https://ouxyi.link/ul/YbU25D?channelId=5022617)
+欧易：[https://www.ouxyi.io/ul/6CngT5?channelId=BIGO8888](https://www.ouxyi.io/ul/6CngT5?channelId=BIGO8888)(次月返佣30%)
 
 
 
