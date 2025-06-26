@@ -1,5 +1,13 @@
 # API申请（欧易篇）
 
+没有交易所账户的或者需要返佣的可以使用一下链接进行注册
+
+欧易：[https://www.ouxyi.io/ul/6CngT5?channelId=BIGO8888](https://www.ouxyi.io/ul/6CngT5?channelId=BIGO8888)(次月返佣30%)
+
+
+
+API申请流程：
+
 一、首先登录欧易账户
 
 二、登录完成后，打开“账户”-API

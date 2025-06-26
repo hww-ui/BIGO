@@ -28,6 +28,8 @@
   * [API申请（币安篇）](nei-rong/tao-li/api-shen-qing-bi-an-pian.md)
   * [API申请（欧易篇）](nei-rong/tao-li/api-shen-qing-ou-yi-pian.md)
   * [API申请（bybit篇）](nei-rong/tao-li/api-shen-qing-bybit-pian.md)
+  * [API申请（gate篇）](nei-rong/tao-li/api-shen-qing-gate-pian.md)
+  * [API申请（bitget篇）](nei-rong/tao-li/api-shen-qing-bitget-pian.md)
 * [工具箱功能介绍](nei-rong/gong-ju-xiang-gong-neng-jie-shao/README.md)
   * [交易所提币](nei-rong/gong-ju-xiang-gong-neng-jie-shao/jiao-yi-suo-ti-bi.md)
   * [TG启动器](nei-rong/gong-ju-xiang-gong-neng-jie-shao/tg-qi-dong-qi.md)

@@ -1,5 +1,13 @@
 # API申请（币安篇）
 
+没有交易所账户的或者需要返佣的可以使用一下链接进行注册
+
+币安：[https://www.marketwebb.net/join?ref=BIGO88](https://www.marketwebb.net/join?ref=BIGO88)(次月返佣30%)
+
+
+
+API申请流程：
+
 一、首先登录币安账户（更新插播一下：要先开统一账户后再申请api）
 
 二、登录完成后，打开“账户”

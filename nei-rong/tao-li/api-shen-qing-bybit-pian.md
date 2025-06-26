@@ -1,5 +1,13 @@
 # API申请（bybit篇）
 
+没有交易所账户的或者需要返佣的可以使用一下链接进行注册
+
+bybit：[https://partner.bybit.com/b/BIGO](https://partner.bybit.com/b/BIGO)(次月返佣40%)
+
+
+
+API申请流程：
+
 一、首先登录欧易账户
 
 二、登录完成后，打开“账户”-API
