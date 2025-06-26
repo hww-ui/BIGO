@@ -44,13 +44,13 @@
 
 八、修改权限，确保具备足够的交易权限
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/b8998ad90777b04cdf5aa4a30c54fec.png" alt=""><figcaption></figcaption></figure>
 
 保存验证后就算创建成功了
 
 九、接下来要填入bigo的程序之中了，复制api密钥
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/b8998ad90777b04cdf5aa4a30c54fec (2).png" alt=""><figcaption></figcaption></figure>
 
 粘贴至bigo中（这部分不明白建议回看-教程第二篇）
 
