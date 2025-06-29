@@ -8,70 +8,119 @@
 
 API申请流程：
 
-一、首先登录币安账户（更新插播一下：要先开统一账户后再申请api）
+一、首先登录币安账户
 
-二、登录完成后，打开“账户”
+二、点击合约账户
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片1.png" alt=""><figcaption></figcaption></figure>
 
-三、选择api管理-创建API-自行生成（很重要）-下一步
+三、没有开通的开通一下合约账户
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片2.png" alt=""><figcaption></figcaption></figure>
 
-四、下载币安密钥生成器
+<figure><img src="../../.gitbook/assets/图片3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+四、点击右上角的三个点—变更账户类型
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片4.png" alt=""><figcaption></figcaption></figure>
 
-下载好后开始安装
+选择统一账户
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片5.png" alt=""><figcaption></figcaption></figure>
 
-安装好之后打开密钥生成器，创建新的密钥，点击复制右边的公钥
+五、打开合约—U本位合约
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片6.png" alt=""><figcaption></figcaption></figure>
 
-注意：密码不要填
+点击齿轮
 
-五、将公钥填写至币安（第三步中最后一张图的跳转）
+<figure><img src="../../.gitbook/assets/图片7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+仓位模式
 
-创建一个备注名
+<figure><img src="../../.gitbook/assets/图片8.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+单向持仓
 
-六、完成验证
+<figure><img src="../../.gitbook/assets/图片9.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+六、左面打开账户—API管理
 
-七、创建成功后，会得到以下密钥
+<figure><img src="../../.gitbook/assets/图片10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+七、创建API—自行生成—点击下载币安秘钥生成器
 
-八、修改权限，确保具备足够的交易权限
+<figure><img src="../../.gitbook/assets/图片11.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/b8998ad90777b04cdf5aa4a30c54fec.png" alt=""><figcaption></figcaption></figure>
+八、下载AsymmetricKeyGenerator-setup-v1.1.1.exe打开
 
-保存验证后就算创建成功了
+<figure><img src="../../.gitbook/assets/图片12.png" alt=""><figcaption></figcaption></figure>
 
-九、接下来要填入bigo的程序之中了，复制api密钥
+九、把1删掉
 
-<figure><img src="../../.gitbook/assets/b8998ad90777b04cdf5aa4a30c54fec (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片13.png" alt=""><figcaption></figcaption></figure>
 
-粘贴至bigo中（这部分不明白建议回看-教程第二篇）
+十、生成密钥
 
-{% content-ref url="li-cha-tao-li-gong-ju-jiao-cheng-di-er-pian-pei-zhi-zhun-bei.md" %}
-[li-cha-tao-li-gong-ju-jiao-cheng-di-er-pian-pei-zhi-zhun-bei.md](li-cha-tao-li-gong-ju-jiao-cheng-di-er-pian-pei-zhi-zhun-bei.md)
-{% endcontent-ref %}
+<figure><img src="../../.gitbook/assets/图片14.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+十一、复制密钥
 
-secert填写的是密钥生成器中privatekey的部分（注意不是全部复制，只需要中间部分）
+<figure><img src="../../.gitbook/assets/图片15.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+十二、回到币安选择自行生成—下一步
 
-点击保存即可
+<figure><img src="../../.gitbook/assets/图片16.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+十三、把刚刚复制的密钥粘贴进来—下一步
+
+<figure><img src="../../.gitbook/assets/图片17.png" alt=""><figcaption></figcaption></figure>
+
+十四、填写一个标签—下一步
+
+<figure><img src="../../.gitbook/assets/图片18.png" alt=""><figcaption></figcaption></figure>
+
+十五、完成安全验证
+
+<figure><img src="../../.gitbook/assets/图片19.png" alt=""><figcaption></figcaption></figure>
+
+十六、编辑权限
+
+<figure><img src="../../.gitbook/assets/图片20.png" alt=""><figcaption></figcaption></figure>
+
+十七、勾选我框起来的配置
+
+<figure><img src="../../.gitbook/assets/图片21.png" alt=""><figcaption></figcaption></figure>
+
+十八、把√勾掉
+
+<figure><img src="../../.gitbook/assets/图片22.png" alt=""><figcaption></figcaption></figure>
+
+十九、完成安全验证
+
+<figure><img src="../../.gitbook/assets/图片23.png" alt=""><figcaption></figcaption></figure>
+
+二十、保存
+
+<figure><img src="../../.gitbook/assets/图片24.png" alt=""><figcaption></figcaption></figure>
+
+二十一、接下来要填入bigo的程序之中了，复制api密钥
+
+<figure><img src="../../.gitbook/assets/图片25.png" alt=""><figcaption></figcaption></figure>
+
+二十二、打开Bigo—账户配置—交易所账号
+
+<figure><img src="../../.gitbook/assets/图片27.png" alt=""><figcaption></figcaption></figure>
+
+二十三、点添加—把API粘贴进来
+
+<figure><img src="../../.gitbook/assets/图片28.png" alt=""><figcaption></figcaption></figure>
+
+二十四、secert填写的是密钥生成器中privatekey的部分（注意不是全部复制，只需要中间部分）
+
+<figure><img src="../../.gitbook/assets/图片29.png" alt=""><figcaption></figcaption></figure>
+
+二十五、点击保存即可
+
+<figure><img src="../../.gitbook/assets/图片30.png" alt=""><figcaption></figcaption></figure>
+
