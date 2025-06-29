@@ -10,26 +10,40 @@ API申请流程：
 
 一、首先登录bitget账户
 
-二、登录完成后，打开“账户”-API keys
+二、登录完成后，点击合约—U本位合约
 
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片59.png" alt=""><figcaption></figcaption></figure>
 
-三、点击新建API key
+三、点击右上角的齿轮
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片60.png" alt=""><figcaption></figcaption></figure>
 
-四、选择系统生成的API秘钥
+四、持仓模式这里选择单向持仓
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片61.png" alt=""><figcaption></figcaption></figure>
 
-五、填写备注名、密码、勾选权限名称
 
-<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
-六、输入验证码
+五、打开“账户”-API keys
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片62.png" alt=""><figcaption></figcaption></figure>
 
-七、创建成功，将apikey和secret填入bigo之中即可
+六、点击新建API key
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片63.png" alt=""><figcaption></figcaption></figure>
+
+七、选择系统生成的API秘钥
+
+<figure><img src="../../.gitbook/assets/图片64.png" alt=""><figcaption></figcaption></figure>
+
+八、填写备注名、密码、勾选权限名称
+
+<figure><img src="../../.gitbook/assets/图片65.png" alt=""><figcaption></figcaption></figure>
+
+九、输入验证码
+
+<figure><img src="../../.gitbook/assets/图片66.png" alt=""><figcaption></figcaption></figure>
+
+十、创建成功，将apikey和secret填入bigo之中即可
+
+<figure><img src="../../.gitbook/assets/图片67.png" alt=""><figcaption></figcaption></figure>
